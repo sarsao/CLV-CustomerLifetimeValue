@@ -12,17 +12,17 @@ This project aims to analyze and predict Customer Lifetime Value (CLV) in the ca
 
 ## Key Features
 
-### 1. Dataset Details and Source
+### 1. Data Understanding
 - Explore the dataset containing information on policies, renewals, sales channels, vehicle characteristics, and more.
 - Understand the source and nature of the data.
 
-### 2. Comprehensive Preprocessing Steps
-- Cleanse and preprocess the data to handle missing values, outliers, and ensure consistency.
-- Exclude irrelevant or redundant information for model efficiency.
-
-### 3. Exploratory Data Analysis (EDA) Insights
+### 2. Exploratory Data Analysis (EDA) Insights
 - Gain actionable insights into customer behavior, policy preferences, and key trends.
 - Visualize distributions, correlations, and patterns.
+
+### 3. Comprehensive Preprocessing Steps
+- Cleanse and preprocess the data to handle missing values, and outliers, and ensure consistency.
+- Exclude irrelevant or redundant information for model efficiency.
 
 ### 4. Advanced Feature Engineering Techniques
 - Utilize techniques such as one-hot encoding, binary encoding, and robust scaling for optimal model performance.
@@ -42,7 +42,3 @@ This project aims to analyze and predict Customer Lifetime Value (CLV) in the ca
 ## Contributing
 
 Contributions are welcome! Report bugs, suggest features, or submit code improvements through issues and pull requests.
-
-## License
-
-[Specify your license here]
