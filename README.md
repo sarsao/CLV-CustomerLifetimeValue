@@ -1,4 +1,4 @@
-# PT Asuransi Mobil Sejahtera CLV Prediction 🚗💼
+# Optimizing Customer Lifetime Value (CLV) in Car Insurance 🚗💼
 
 Predicting Customer Lifetime Value (CLV) in the car insurance industry for PT Asuransi Mobil Sejahtera.
 
