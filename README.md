@@ -1,7 +1,5 @@
 Optimizing Customer Lifetime Value (CLV) in Car Insurance
 
-![image](https://github.com/sarsao/CLV-CustomerLifetimeValue/assets/56667337/d08cc32e-c219-4300-ab28-2f54631dd4fd)
-
 This project analyzes car insurance data to predict CLV, enabling effective customer relationship management and optimizing business strategies for PT Asuransi Mobil Sejahtera.
 
 # PT Asuransi Mobil Sejahtera CLV Prediction
